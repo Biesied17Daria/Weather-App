@@ -1,0 +1,46 @@
+body {
+  background-image: url("/img/ukraine.jpg") ;
+  background-size: 60%;
+}
+
+.container {
+  margin: 20px auto;
+  background: #eaf6f6;
+  height: 600px;
+  width: 800px;
+  padding: 50px;
+  display: block;
+  border-radius: 5%;
+}
+
+.input {
+  font-family: "Playfair Display", serif;
+  font-family: "Ysabeau", sans-serif;
+}
+
+.col-week {
+  display: inline-block;
+  padding: 20px;
+  border: solid rgb(164, 204, 241) 1px;
+  border-radius: 10px;
+}
+
+.weather-icons, .ukraine-icons {
+  display: block;
+  margin: 10px auto;
+  width: 100px;
+}
+.ukraine-icons {
+  width: 120px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.week {
+  text-align: center;
+  margin: 5px;
+}
+
+  
